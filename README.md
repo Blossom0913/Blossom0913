@@ -6,7 +6,7 @@
 -  Mailbox:   chenxutian@stu2021.jnu.edu.cn
 -  361265483@qq.com
 
-![](https://github.com/Blossom0913/Markdown-Writer/blob/master/PureMath/hsy%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230224092343.jpg)
+<!-- ![](https://github.com/Blossom0913/Markdown-Writer/blob/master/PureMath/hsy%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230224092343.jpg) -->
 
 <!---
 Blossom0913/Blossom0913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
