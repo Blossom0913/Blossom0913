@@ -2,7 +2,8 @@
 <h3 align="center">A passionate AI learner from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blossom0913&label=Profile%20views&color=0e75b6&style=flat" alt="blossom0913" /> </p>
-
+- 🏫: I am a graduate AI at Jinan University, Zhuhai.
+- 🔭: I'm currently studying CS course in [csdiy](https://csdiy.wiki/)
 <h3 align="left">Connect with me:</h3>
 - 📧: chenxutian@stu2021.jnu.edu.cn
 <p align="left">
