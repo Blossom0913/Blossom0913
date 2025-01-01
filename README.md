@@ -6,6 +6,7 @@
 - 🏫: I am a graduate AI at Jinan University, Zhuhai.
 
 - 🔭: I'm currently studying CS course in [csdiy](https://csdiy.wiki/)
+- 👁️‍🗨️: Open Courses done: [cs61a](https://cs61a.vercel.app/) [cs188](https://inst.eecs.berkeley.edu/~cs188/fa24/) [ CS 543/ECE 549](https://slazebni.cs.illinois.edu/fall22/)
 <h3 align="left">Connect with me:</h3>
 
 - 📧: chenxutian@stu2021.jnu.edu.cn
