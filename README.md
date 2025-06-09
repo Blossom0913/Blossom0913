@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blossom0913&label=Profile%20views&color=0e75b6&style=flat" alt="blossom0913" /> </p>
 
-- 🏫: I am a graduate AI at Jinan University, Zhuhai.
-
+- 🏫: I was a graduate AI B.S. at Jinan University, Zhuhai.
+- 🏫：I‘m a master majoring in AI at Beijing University of Aerospace and Astronaut（BUAA），Beijing.✈️
 - 🔭: I'm currently studying CS course in [csdiy](https://csdiy.wiki/)
 - 👁️‍🗨️: Open Courses done: [cs61a](https://cs61a.vercel.app/) [cs188](https://inst.eecs.berkeley.edu/~cs188/fa24/) [ CS 543/ECE 549](https://slazebni.cs.illinois.edu/fall22/)
 <h3 align="left">Connect with me:</h3>
