@@ -3,10 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blossom0913&label=Profile%20views&color=0e75b6&style=flat" alt="blossom0913" /> </p>
 
-- 🏫: I was a graduate AI B.S. at Jinan University, Zhuhai.
-- 🏫：I‘m a master majoring in AI at Beijing University of Aerospace and Astronaut（BUAA），Beijing.✈️
+- 🏫: **Education**：
+  - B.Eng in Artificial Intelligence, Jinan University(JNU), Zhuhai China.
+  - M.Eng in Electronic and Information Engineering, Beijing University of Aerospace and Astronaut（BUAA), Beijing China.
 - 🔭: I'm currently studying CS course in [csdiy](https://csdiy.wiki/)
-- 👁️‍🗨️: Open Courses done: [cs61a](https://cs61a.vercel.app/) [cs188](https://inst.eecs.berkeley.edu/~cs188/fa24/) [ CS 543/ECE 549](https://slazebni.cs.illinois.edu/fall22/)
+- 👁️‍🗨️: **Open Courses done**:
+  - [cs61a](https://cs61a.vercel.app/)(2023.7 - 2023.9)
+  - [cs188](https://inst.eecs.berkeley.edu/~cs188/fa24/)(2023.3 - 2023.6)
+  - [ CS 543/ECE 549](https://slazebni.cs.illinois.edu/fall22/)(2024.3 - 2024.6)
+  - [cs61b](https://sp19.datastructur.es/index.html)(2025.2 - 2025.8)
 <h3 align="left">Connect with me:</h3>
 
 - 📧: chenxutian@stu2021.jnu.edu.cn
