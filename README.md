@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📧: chenxutian@stu2021.jnu.edu.cn
+- 📧: chenxutian@buaa.edu.cn
 
 <p align="left">
 </p>
