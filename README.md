@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xutian Chen</h1>
-<h3 align="center">A passionate AI learner from China</h3>
+<h3 align="center">Welcome to Xutian Chen's Personal Homepage</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blossom0913&label=Profile%20views&color=0e75b6&style=flat" alt="blossom0913" /> </p>
 
 - 🏫: **Education**：
-  - B.Eng in Artificial Intelligence, Jinan University(JNU), Zhuhai China.
-  - M.Eng in Electronic and Information Engineering, Beijing University of Aerospace and Astronaut（BUAA), Beijing China.
+  - Master of Engineering in Electronic Information, [*Beihang University（BUAA)*](https://iai.buaa.edu.cn), Beijing China.
+  - Bachelor of Engineering in Artificial Intelligence, [*Jinan University(JNU)*](https://sisse.jnu.edu.cn), Zhuhai China.
 - 🔭: I'm currently studying CS course in [csdiy](https://csdiy.wiki/)
 - 👁️‍🗨️: **Open Courses done**:
   - [cs61a](https://cs61a.vercel.app/)(2023.7 - 2023.9)
