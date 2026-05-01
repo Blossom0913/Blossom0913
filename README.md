@@ -12,10 +12,13 @@
   - [cs188](https://inst.eecs.berkeley.edu/~cs188/fa24/)(2023.3 - 2023.6)
   - [ CS 543/ECE 549](https://slazebni.cs.illinois.edu/fall22/)(2024.3 - 2024.6)
   - [cs61b](https://sp19.datastructur.es/index.html)(2025.2 - 2025.8)
+  - [MIT 6S.183](https://www.practical-diffusion.org/)(2026.4 - 2026.6)
+  - [MIT 6S.184](https://diffusion.csail.mit.edu/2026/index.html)(2026.7-2026.9)
 <h3 align="left">Connect with me:</h3>
 
 - 📧: chenxutian@stu2021.jnu.edu.cn
 - 📧: chenxutian@buaa.edu.cn
+- 📧: chenxutian02@gmail.com
 
 <p align="left">
 </p>
