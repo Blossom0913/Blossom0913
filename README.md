@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blossom0913&label=Profile%20views&color=0e75b6&style=flat" alt="blossom0913" /> </p>
 
 - 🏫: **Education**：
-  - Master of Engineering in Electronic Information, [*Beihang University（BUAA)*](https://iai.buaa.edu.cn), Beijing China.
+  - Master of Engineering in Artificial Intelligence, [*Beihang University（BUAA)*](https://iai.buaa.edu.cn), Beijing China.
   - Bachelor of Engineering in Artificial Intelligence, [*Jinan University(JNU)*](https://sisse.jnu.edu.cn), Zhuhai China.
 - 💼: **Internship Experience**：
   - **Decision Planning Algorithm Intern**, [*Meituan Autonomous Driving Department*](https://www.meituan.com/), Beijing China. (2026.3 - 2026.10)
@@ -12,7 +12,7 @@
     
     - 修复与建设路口数据闭环 Pipeline ，排查并修复路口人驾数据 daily 采集 Pipeline（Jenkins Workflow），定位上游数据缺失、Proto 编译冲突等故障；补齐历史断档人驾路口数据；参照已有框架搭建路口自驾数据 daily 采集 Pipeline，制作路口左转、右转自驾全量数据集，完成数据清洗与过滤逻辑设计。
     
-    - 调研与验证端到端模型训练，完成路口 Decoder 模型的特征导出、数据重刷及模型训练流程打通，完成对上游 encoder 的模型适配，验证训练脚本可用性，为后续路口选出口道模型迭代提供数据与流程基础。
+    - 调研与验证端到端模型训练，完成路口 Decoder 模型的特征导出、数据重刷及模型训练流程打通，完成对上游 Encoder 的模型适配，验证训练脚本可用性，为后续路口选出口道模型迭代提供数据与流程基础。
   - **Research Intern**, [*Guangdong Institute of Intelligence Science and Technology*](https://www.gdiist.cn/research/team_detail/84), Zhuhai China. (2025.2 - 2025.9)
     - 申请2项研究成果为软件著作权：[*物流仓库多智能体机器人路径规划系统*](https://gitee.com/chenxutian/imagebed/blob/master/Software%20Copyrights/物流仓库多智能体机器人路径规划系统%20软著证书.pdf) 与 [*基于积分任务管理与账单追踪的轻量化工具平台*](https://gitee.com/chenxutian/imagebed/blob/master/Software%20Copyrights/基于积分任务管理与账单追踪的轻量化工具平台%20软著证书.pdf)。
     - 设计小鼠社会行为分类的实验框架，使用 [*DeepLabCut*](https://github.com/DeepLabCut/DeepLabCut) 标注身体关键点协同，并以 [*LightGBM*](https://github.com/microsoft/LightGBM) 对比 LSTM、CNN、GMM 等模型的性能；项目代码：[*DLC_train*](https://github.com/Blossom0913/DLC_train)，研究工作投稿至[*Scientific Data*](https://www.nature.com/sdata/)。
