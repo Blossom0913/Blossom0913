@@ -5,11 +5,11 @@
 - B.Eng in AI, Jinan University (JNU)
 
 💼 **Internship**
-- **Decision Planning Algorithm Intern** @ Meituan Autonomous Driving (2026.3 - 2026.10)
+- **Decision Planning Algorithm Intern** @ Meituan Autonomous Driving (2026.03 - 2026.09)
   - Optimized intersection interaction decision algorithms for autonomous driving
   - Built data pipeline for intersection scenario collection (Jenkins workflow)
   - Validated end-to-end model training for intersection exit-lane selection
-- **Research Intern** @ Guangdong Institute of Intelligence Science and Technology (2025.2 - 2025.9)
+- **Research Intern** @ Guangdong Institute of Intelligence Science and Technology (2025.02 - 2025.09)
   - Published research on mouse social behavior classification using DeepLabCut + LightGBM (submitted to *Scientific Data*)
   - Scaled molecular docking of ~4.3M compounds on 4× RTX 2080Ti
   - Filed 2 software copyrights
